@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OneDataconverter</string>
+    <string name="action_settings">Exit</string> 
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_bits">Bits</string>
+    <string name="title_activity_data_conversion">DataConversion</string>
+    <string name="title_activity_electric">Electric</string>
+    <string name="title_activity_length">Length</string>
+    <string name="title_activity_mass">Mass</string>
+    <string name="title_activity_myactivity">Myactivity</string>
+    <string name="title_activity_speed">Speed</string>
+    <string name="title_activity_temperature">Temperature</string>
+    <string name="title_activity_volume">Volume</string>
+
+</resources>
